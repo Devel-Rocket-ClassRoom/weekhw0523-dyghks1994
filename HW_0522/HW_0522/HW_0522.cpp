@@ -9,6 +9,7 @@
 #include "Homework02.h"
 #include "Homework03.h"
 #include "Homework04.h"
+#include "Homework05.h"
 
 int main()
 {
@@ -17,9 +18,13 @@ int main()
 	srand(Seed);	// 시드값 초기화
     
 	
-	//Homework02_Run();
-	//Homework03_Run();
-	Homework04_Run();
+	Homework02_Run();		// 자리수 분리해서 합치기
+	
+	Homework03_Run();		// 슬롯머신
+	
+	Homework04_Run();		// 도둑잡기
+	
+	Homework05_Run();		// 미로탈출
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴

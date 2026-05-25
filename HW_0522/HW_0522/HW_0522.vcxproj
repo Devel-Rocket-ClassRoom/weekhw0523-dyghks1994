@@ -127,11 +127,13 @@
     <ClCompile Include="Homework03.cpp" />
     <ClCompile Include="Homework04.cpp" />
     <ClCompile Include="HW_0522.cpp" />
+    <ClCompile Include="Homework05.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Homework02.h" />
     <ClInclude Include="Homework03.h" />
     <ClInclude Include="Homework04.h" />
+    <ClInclude Include="Homework05.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
