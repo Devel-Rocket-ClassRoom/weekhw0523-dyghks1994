@@ -8,6 +8,7 @@
 
 #include "Homework02.h"
 #include "Homework03.h"
+#include "Homework04.h"
 
 int main()
 {
@@ -17,7 +18,8 @@ int main()
     
 	
 	//Homework02_Run();
-	Homework03_Run();
+	//Homework03_Run();
+	Homework04_Run();
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
